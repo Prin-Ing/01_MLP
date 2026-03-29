@@ -2,5 +2,8 @@
   "type": "module",
   "name": "mlp-neural-network",
   "version": "1.0.0",
-  "description": "A modular and extensible MLP neural network implementation"
+  "description": "A modular and extensible MLP neural network implementation",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
 }
